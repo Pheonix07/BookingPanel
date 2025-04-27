@@ -1,0 +1,162 @@
+[
+  {
+    "roomId": 101,
+    "locationId": 1,
+    "locationName": "Sea View Resort",
+    "roomName": "Oceanfront Deluxe",
+    "pricePerDayPerPerson": 180,
+    "guestCapacity": 4
+  },
+  {
+    "roomId": 102,
+    "locationId": 1,
+    "locationName": "Sea View Resort",
+    "roomName": "Garden View Standard",
+    "pricePerDayPerPerson": 120,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 103,
+    "locationId": 1,
+    "locationName": "Sea View Resort",
+    "roomName": "Family Suite",
+    "pricePerDayPerPerson": 200,
+    "guestCapacity": 5
+  },
+  {
+    "roomId": 104,
+    "locationId": 1,
+    "locationName": "Sea View Resort",
+    "roomName": "Penthouse Suite",
+    "pricePerDayPerPerson": 350,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 105,
+    "locationId": 1,
+    "locationName": "Sea View Resort",
+    "roomName": "Beachfront Cottage",
+    "pricePerDayPerPerson": 250,
+    "guestCapacity": 3
+  },
+  {
+    "roomId": 201,
+    "locationId": 2,
+    "locationName": "Mountain Inn",
+    "roomName": "Executive Mountain Suite",
+    "pricePerDayPerPerson": 220,
+    "guestCapacity": 3
+  },
+  {
+    "roomId": 202,
+    "locationId": 2,
+    "locationName": "Mountain Inn",
+    "roomName": "Valley View Deluxe",
+    "pricePerDayPerPerson": 180,
+    "guestCapacity": 4
+  },
+  {
+    "roomId": 203,
+    "locationId": 2,
+    "locationName": "Mountain Inn",
+    "roomName": "Standard Twin",
+    "pricePerDayPerPerson": 130,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 204,
+    "locationId": 2,
+    "locationName": "Mountain Inn",
+    "roomName": "Family Cabin",
+    "pricePerDayPerPerson": 240,
+    "guestCapacity": 6
+  },
+  {
+    "roomId": 205,
+    "locationId": 2,
+    "locationName": "Mountain Inn",
+    "roomName": "Solo Traveler Pod",
+    "pricePerDayPerPerson": 90,
+    "guestCapacity": 1
+  },
+  {
+    "roomId": 301,
+    "locationId": 3,
+    "locationName": "City Center Hotel",
+    "roomName": "Urban Single",
+    "pricePerDayPerPerson": 90,
+    "guestCapacity": 1
+  },
+  {
+    "roomId": 302,
+    "locationId": 3,
+    "locationName": "City Center Hotel",
+    "roomName": "Business Twin",
+    "pricePerDayPerPerson": 150,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 303,
+    "locationId": 3,
+    "locationName": "City Center Hotel",
+    "roomName": "Executive Suite",
+    "pricePerDayPerPerson": 300,
+    "guestCapacity": 3
+  },
+  {
+    "roomId": 304,
+    "locationId": 3,
+    "locationName": "City Center Hotel",
+    "roomName": "Presidential Suite",
+    "pricePerDayPerPerson": 500,
+    "guestCapacity": 4
+  },
+  {
+    "roomId": 305,
+    "locationId": 3,
+    "locationName": "City Center Hotel",
+    "roomName": "Compact Studio",
+    "pricePerDayPerPerson": 110,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 401,
+    "locationId": 4,
+    "locationName": "Forest Retreat",
+    "roomName": "Cottage Family Suite",
+    "pricePerDayPerPerson": 200,
+    "guestCapacity": 5
+  },
+  {
+    "roomId": 402,
+    "locationId": 4,
+    "locationName": "Forest Retreat",
+    "roomName": "Treehouse Loft",
+    "pricePerDayPerPerson": 260,
+    "guestCapacity": 2
+  },
+  {
+    "roomId": 403,
+    "locationId": 4,
+    "locationName": "Forest Retreat",
+    "roomName": "Woodland Deluxe",
+    "pricePerDayPerPerson": 180,
+    "guestCapacity": 3
+  },
+  {
+    "roomId": 404,
+    "locationId": 4,
+    "locationName": "Forest Retreat",
+    "roomName": "Eco Pod",
+    "pricePerDayPerPerson": 100,
+    "guestCapacity": 1
+  },
+  {
+    "roomId": 405,
+    "locationId": 4,
+    "locationName": "Forest Retreat",
+    "roomName": "River View Bungalow",
+    "pricePerDayPerPerson": 230,
+    "guestCapacity": 4
+  }
+]
