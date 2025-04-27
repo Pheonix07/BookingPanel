@@ -1,0 +1,57 @@
+[
+  {
+    "locationId": 1,
+    "locationName": "North America",
+    "children": [
+      { "locationId": 11, "locationName": "United States" },
+      { "locationId": 12, "locationName": "Canada" },
+      { "locationId": 13, "locationName": "Mexico" },
+      { "locationId": 14, "locationName": "Cuba" },
+      { "locationId": 15, "locationName": "Jamaica" }
+    ]
+  },
+  {
+    "locationId": 2,
+    "locationName": "Europe",
+    "children": [
+      { "locationId": 21, "locationName": "United Kingdom" },
+      { "locationId": 22, "locationName": "Germany" },
+      { "locationId": 23, "locationName": "France" },
+      { "locationId": 24, "locationName": "Spain" },
+      { "locationId": 25, "locationName": "Italy" }
+    ]
+  },
+  {
+    "locationId": 3,
+    "locationName": "Asia",
+    "children": [
+      { "locationId": 31, "locationName": "India" },
+      { "locationId": 32, "locationName": "China" },
+      { "locationId": 33, "locationName": "Japan" },
+      { "locationId": 34, "locationName": "South Korea" },
+      { "locationId": 35, "locationName": "Thailand" }
+    ]
+  },
+  {
+    "locationId": 4,
+    "locationName": "South America",
+    "children": [
+      { "locationId": 41, "locationName": "Brazil" },
+      { "locationId": 42, "locationName": "Argentina" },
+      { "locationId": 43, "locationName": "Chile" },
+      { "locationId": 44, "locationName": "Peru" },
+      { "locationId": 45, "locationName": "Colombia" }
+    ]
+  },
+  {
+    "locationId": 5,
+    "locationName": "Africa",
+    "children": [
+      { "locationId": 51, "locationName": "Nigeria" },
+      { "locationId": 52, "locationName": "South Africa" },
+      { "locationId": 53, "locationName": "Egypt" },
+      { "locationId": 54, "locationName": "Kenya" },
+      { "locationId": 55, "locationName": "Morocco" }
+    ]
+  }
+]
